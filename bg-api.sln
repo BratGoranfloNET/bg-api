@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bg-api", "bg-api.csproj", "{A025083E-9965-4D3F-A18A-1839D93B0530}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A025083E-9965-4D3F-A18A-1839D93B0530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A025083E-9965-4D3F-A18A-1839D93B0530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A025083E-9965-4D3F-A18A-1839D93B0530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A025083E-9965-4D3F-A18A-1839D93B0530}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87BFDD2C-5262-4129-AE1D-3954ECE2AAD2}
+	EndGlobalSection
+EndGlobal

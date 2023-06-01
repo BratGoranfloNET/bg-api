@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\bg-api.props" />
+</Project>
