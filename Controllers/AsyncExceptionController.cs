@@ -2,6 +2,9 @@
 
 namespace bg_api.Controllers
 {
+    /// <summary>
+    /// Test Sync
+    /// </summary>
     [ApiController]
     [Route("[controller]")]
     public  class AsyncExceptionController : Controller
