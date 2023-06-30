@@ -19,7 +19,7 @@ namespace bg_api.Controllers
         }
 
 
-         async Task<string> MainAsync() 
+        async Task<string> MainAsync() 
         {
             string path = @"d:\testfile.txt";
 
@@ -39,7 +39,7 @@ namespace bg_api.Controllers
            
         }
 
-         async Task<string> ReadFileAsync(string fileName)
+        async Task<string> ReadFileAsync(string fileName)
         {
             using (StreamReader sr = System.IO.File.OpenText(fileName))
             {
